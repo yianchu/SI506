@@ -1,0 +1,46 @@
+{
+  "name": "Millennium Falcon",
+  "model": "YT-1300 light freighter",
+  "manufacturer": "Corellian Engineering Corporation",
+  "cost_in_credits": "100000",
+  "length": "34.37",
+  "max_atmosphering_speed": "1050",
+  "crew": "4",
+  "passengers": [
+    {
+      "name": "Chewbacca",
+      "category": "co-pilot",
+      "boarding_order": 1
+    },
+    {
+      "name": "Luke Skywalker",
+      "category": "crew",
+      "boarding_order": 2
+    },
+    {
+      "name": "Obi-Wan Kenobi",
+      "category": "crew",
+      "boarding_order": 3
+    },
+    {
+      "name": "C-3PO",
+      "category": "crew",
+      "boarding_order": 4
+    },
+    {
+      "name": "R2-D2",
+      "category": "crew",
+      "boarding_order": 5
+    },
+    {
+      "name": "Han Solo",
+      "category": "captain",
+      "boarding_order": 6
+    }
+  ],
+  "cargo_capacity": "100000",
+  "consumables": "2 months",
+  "hyperdrive_rating": "0.5",
+  "MGLT": "75",
+  "starship_class": "Light freighter"
+}
